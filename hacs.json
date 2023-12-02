@@ -1,0 +1,7 @@
+{
+  "name": "Bluetooth Proxy",
+  "homeassistant": "2023.9.1",
+  "country": "CN",
+  "domains": [],
+  "render_readme": true
+}

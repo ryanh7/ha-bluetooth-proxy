@@ -1,0 +1,10 @@
+{
+  "domain": "ha_bluetooth_proxy",
+  "name": "Bluetooth Proxy",
+  "dependencies": ["bluetooth"],
+  "codeowners": ["@ryanh7"],
+  "config_flow": true,
+  "documentation": "https://github.com/ryanh7/ha-bluetooth-proxy",
+  "iot_class": "local_push",
+  "version": "0.1.0"
+}
